@@ -3,12 +3,12 @@ Module 8 Journal
 
 1. How can I ensure that my code, program, or software is functional and secure?
 
-  To make sure that my code, program, and or software is functional and secure I can begin by carefully testing it against its requirements
-  and validating both the correct and incorrect inputs. Throughout this course, I used unit tests to check that valid data was accepted
-  and that invalid data was being rejected, which helped to prevent errors from happening. By testing each rule one at a time, like through
-  field length limits or the required values, I could confirm that the program was behaving as expected. Writing automated tests also makes
-  it easier to catch problems early on whenever changes are made, so doing this in the future will improve readability and reduce the chance
-  of running into any unexpected issues.
+    To make sure that my code, program, and or software is functional and secure I can begin by carefully testing it against its requirements
+    and validating both the correct and incorrect inputs. Throughout this course, I used unit tests to check that valid data was accepted
+    and that invalid data was being rejected, which helped to prevent errors from happening. By testing each rule one at a time, like through
+    field length limits or the required values, I could confirm that the program was behaving as expected. Writing automated tests also makes
+    it easier to catch problems early on whenever changes are made, so doing this in the future will improve readability and reduce the chance
+    of running into any unexpected issues.
 
 2. How do I interpret user needs and incorporate them into a program?
 
